@@ -24,3 +24,12 @@ Description:
 1-Please use data in excel file name Info to deal with data entery "Just copy & paste "
 
 2- If you tried to remove any element in any or array list program will print number of the array lists in oder to know which one has made the error then exists
+
+Sample Usage:
+
+To filter cars by brand, you can enter "BMW" as the brand name, and it will save all Toyota cars to File_a.txt.
+
+To filter cars by model and age, you can enter "S_class" as the model name and "2003" as the minimum year, and it will save all Toyota Camry cars older 2003 to File_b.txt.
+
+To filter cars by year of manufacture and price, you can enter "2020" as the year and "1000" as the minimum price, and it will save all cars manufactured in 2020 with a price higher than $1000 to File_c.txt.
+
